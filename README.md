@@ -1,2 +1,2 @@
-# Numeros Unicos
-Repositório em listas com números únicos
+# Números únicos
+Repositório em listas com números únicos.
