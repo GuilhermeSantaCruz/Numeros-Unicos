@@ -8,5 +8,5 @@ while True:
     resp = input("Quer continuar? [S/N] ").strip().upper()[0]
     if resp == "N":
         break
+print("=*" * 30)    
 print(f"Os números da lista são: {numeros} ")
-            
